@@ -1,0 +1,21 @@
+if program does not work
+first use make clean command
+then run again
+for example q1
+open in terminal
+make clean
+make
+./q1
+
+-----------------------------------------------------------------
+
+Name: Ankit Kumar Ahirwar
+Semester - 4
+Enrollment no. : BT24CSE065
+Section : A
+Batch : 3
+
+All files are in separate folders
+For different questions, different Makefile and Readme files are created
+
+Thankyou
