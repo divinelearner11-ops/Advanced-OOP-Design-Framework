@@ -46,9 +46,3 @@ This subsystem targets higher-level enterprise abstractions, reflective runtime 
 ## 💻 Build and Execution Standards
 
 Every sub-module follows standard multi-file enterprise compilation architectures (`.h`/`.cpp` separations). Do not combine definitions inside a single driver boundary.
-
-### Building a C++ Subsystem Module:
-```bash
-cd cpp-core-engine/03-virtual-inheritance-payroll-system
-make
-./payroll_engine
